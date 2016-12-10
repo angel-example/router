@@ -20,3 +20,8 @@ html, body {
 .todo-item.complete {
     text-decoration: line-through;
 }
+
+.todo-list ul {
+    list-style-type: none;
+    padding-left: 0;
+}
